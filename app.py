@@ -3,7 +3,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-MESSAGE = os.environ.get("MESSAGE", "Bonsoir depuis Docker !")
+MESSAGE = os.environ.get("MESSAGE", "Bon après-midi depuis Docker !")
 
 @app.route("/")
 def accueil():
