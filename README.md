@@ -1,5 +1,10 @@
 # Mon application Flask
 
+## Liens
+- Image Docker Hub : https://hub.docker.com/r/chahedbenabdallah/app
+- Versions (tags) : https://hub.docker.com/r/chahedbenabdallah/app/tags
+- Code source (GitHub) : https://github.com/Chahedbenabdallah/mini-projet-docker
+
 Petite application web qui affiche un message d'accueil configurable.
 
 ## Image Docker Hub
